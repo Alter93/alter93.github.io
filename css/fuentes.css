@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'HelveticaNeueThin';
+    src: url('../fuentes/HelveticaNeueThin.ttf');
+    src: url('../fuentes/HelveticaNeueThin.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'HelveticaNeueLight';
+    src: url('../fuentes/HelveticaNeueLight.ttf');
+    src: url('../fuentes/HelveticaNeueLight.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+
+}
