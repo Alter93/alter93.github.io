@@ -89,7 +89,7 @@ header.masthead .subheading {
 
 section.light {
   font-size: 1.8rem;
-  padding: 3rem;
+  padding: 5%;
   color: #4E4D4D !important;
   background-color: #E1E1E1;
   line-height: 2.2rem;
@@ -99,7 +99,7 @@ section.light {
 
 section.white {
   font-size: 1.8rem;
-  padding: 3rem;
+  padding: 3%;
   color: #4E4D4D !important;
   background-color: #fff;
   line-height: 2.2rem;
@@ -139,7 +139,7 @@ footer a {
 }
 section.image {
   font-size: 1.8rem;
-  padding: 2.5rem;
+  padding: 2.5%;
   text-align: left;
   text-shadow: 0px 2px 4px #000;
   font-weight: lighter;
