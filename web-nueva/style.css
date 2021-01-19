@@ -1,0 +1,166 @@
+@font-face {
+  font-family: Graphik;
+  src: url(assets/font/Graphik-Bold.otf);
+  font-weight: bolder;
+}
+
+@font-face {
+  font-family: Graphik;
+  src: url(assets/font/Graphik-Light.otf);
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: Graphik;
+  src: url(assets/font/Graphik-Medium.otf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Graphik;
+  src: url(assets/font/Graphik-Regular.otf);
+  font-weight: normal;
+}
+
+nav{
+    padding: 1.5rem!important;
+}
+
+.nav-link {
+    padding-left: 2.5rem!important;
+}
+
+.bg-dark {
+  background-color: #5A6578 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 1);
+  font-weight: lighter;
+  font-size: 1.2rem;
+  font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.navbar-brand {
+  color: rgba(255, 255, 255, 1) !important;
+  font-weight: 400;
+  font-size: 1.4rem;
+  font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.scroll-arrow {
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+header.masthead {
+  padding-top: 13rem;
+  padding-bottom: .5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  text-align: left;
+  color: #fff;
+  background-image: url("assets/PaseoReforma_dronerobert_4472x.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+header.masthead .heading {
+  font-size: 3.5rem;
+  line-height: 3.5rem;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  text-shadow: 0px 2px 4px #000;
+  font-weight: lighter;
+  font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+header.masthead .subheading {
+  font-size: 2.5rem;
+  line-height: 3.5rem;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  text-shadow: 0px 2px 4px #000;
+  font-weight: lighter;
+  font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+section.light {
+  font-size: 1.8rem;
+  padding: 3rem;
+  color: #4E4D4D !important;
+  background-color: #E1E1E1;
+  line-height: 2.2rem;
+  font-weight: lighter;
+  font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+section.white {
+  font-size: 1.8rem;
+  padding: 3rem;
+  color: #4E4D4D !important;
+  background-color: #fff;
+  line-height: 2.2rem;
+  font-weight: lighter;
+  font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+section.light .header {
+  font-size: 2.4rem;
+  line-height: 2.4rem;
+}
+
+.btn-primary{
+    background-color: #074182;
+    border: #074182;
+    font-weight: bold;
+    font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.btn-lg{
+    font-size: 2rem;
+    padding: .8rem;
+}
+footer {
+    font-size: 1.5rem;
+    padding: 3.5rem;
+    background-color: #5E6FA0;
+    color: #fff;
+    font-weight: lighter;
+    font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+footer a {
+    font-size: 1.1rem;
+    color: #fff;
+    font-weight: lighter;
+    font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+section.image {
+  font-size: 1.8rem;
+  padding: 2.5rem;
+  text-align: left;
+  text-shadow: 0px 2px 4px #000;
+  font-weight: lighter;
+  font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: #fff;
+  line-height: 2.2rem;
+  background-image: url("assets/PaseoReforma_dronerobert.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+section.image .header {
+  font-size: 3rem;
+  line-height: 3rem;
+  text-align: center;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  text-shadow: 0px 2px 4px #000;
+  font-weight: lighter;
+  font-family: "Graphik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
