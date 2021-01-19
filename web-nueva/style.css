@@ -21,9 +21,9 @@
   src: url(assets/font/Graphik-Regular.otf);
   font-weight: normal;
 }
-
-nav{
-    padding: 1.5rem !important;
+nav
+{
+height: 90px;
 }
 
 .nav-link {
