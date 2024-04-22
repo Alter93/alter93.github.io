@@ -1,31 +1,13 @@
 * { border:0;margin:0;padding:0; }
 body {  border-top:4px solid #00adff; line-height: 1.6;}
-a:link, a:active, a:visited { color:inherit;text-decoration:none; }
+a:link, a:active, a:visited { color:inherit;text-decoration:none }
 ul { margin-left:3px; }
 li { display:inline-block; }
 
-#contenedor { margin:155px auto;margin-top:200px;margin-bottom:20px;width:750px; font:75px/83px 'HelveticaNeueThin', Arial, sans-serif; }
-#nombre { color:#00adff;width:250px;line-height:0.75em; }
-#contenedor span { position:relative;top:-70px;left:220px;color:#bebebe;font-size:60px; }
+#contenedor { margin:150px;margin-top:200px; font:75px/83px 'HelveticaNeueThin', Arial, sans-serif; }
+#nombre { color:#00adff;width:100%;line-height:0.75em; }
+#contenedor #links { color:#bebebe;font-size:60px; margin-top:20px; }
+#contenedor #links a {margin-right:50px}
+#contenedor #links a:hover { text-decoration:underline;color:#0000bb;; }
 #social { color:#787878; }
 #social { color:#787878; }
-#controles { padding: 0;margin-top:20px;margin-left: 20px;}
-#controles li { float: left; margin-left: 10px;position: relative; max-height:40px;min-height:40px;color:#bebebe;font:20px 'HelveticaNeueThin',HelveticaNeue, sans-serif; list-style-type:none;}
-#controles li2 { float: right; margin-right:40px;margin-top:10px;position: relative; max-height:40px;min-height:40px;color:#7e7e7e;font:20px 'HelveticaNeueThin',HelveticaNeue, sans-serif;}
-#controles li1 { float: left; margin-left:30px;text-align: center; position:absolute; color:#bebebe;font:40px 'HelveticaNeueThin', HelveticaNeueThin,sans-serif;}
-
-#titulo { margin: 100px;margin-top:100px;font:60px 'HelveticaNeueThin', Arial, sans-serif;color:#00adff;  }
-#cv { margin: auto;font: 28px 'HelveticaNeueLight', Arial, sans-serif; color:#a0a0b0; ;}
-#cv span span { font:18px 'HelveticaNeueThin', Arial, sans-serif; color:#000000; line-height: 1.6; }
-#cv span { font:18px 'HelveticaNeueThin', Arial, sans-serif; color:#000000; line-height: 1.6; }
-#contenedorCV { margin: auto; margin-top:-10px;}
-#cv a:link{ color:blue;text-decoration:underline; }
-#cv a:visited{ color:blue;text-decoration:underline; }
-#cv a:active{ color:grey;text-decoration:underline; }
-
-#experiencia {font:18px 'HelveticaNeueThin', Arial, sans-serif; color:#000000; line-height: 1.6;}
-#experiencia_titulo {font:20px 'HelveticaNeueThin', Arial, sans-serif; color:#000000; line-height: 1.6;}
-#contenido {width: 530px; margin:120px;margin-top:-50px; font:18px 'HelveticaNeueThin', Arial, sans-serif;color:#000000;}
-#contenido a:link{ color:blue;text-decoration:underline; }
-#contenido a:visited{ color:blue;text-decoration:underline; }
-#contenido a:active{ color:grey;text-decoration:underline; }
